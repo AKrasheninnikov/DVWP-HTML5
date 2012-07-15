@@ -1,4 +1,3 @@
-DVWP-HTML5
-==========
+#SharePoint Data Form Web Part (DVWP) in a HTML5 world
 
-SharePoint Data Form Web Part (DVWP) in a HTML5 world
+Work in progress. Stay tuned
